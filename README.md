@@ -1,6 +1,27 @@
-# SKKU-Internship-Yuchan-Ko
+# 🤖 SKKU Internship Program - Machine Learning Studies
 
-Learnt concepts and experiences written into words and code from SKKU Internship program.
+<hr/>
+
+### Purpose
+
+This repository captures my two-week dive into scikit-learn’s classification tools,  as part of my internship at Sungkyunkwan University (SKKU).  
+Under Professor Tamer Abumed’s guidance, my goals are to:
+
+- Get comfortable with the basics of classic machine-learning tools like logistic regression, decision trees, random forests, and SVMs.
+- Master the essentials of preparing data, choosing the right model, measuring performance, and fine-tuning settings to get the best results.
+- Get practice with real-world datasets, using scikit-learn’s tools and pipelines.
+- Set myself up for research success by keeping track of my studies, methods, challenges, and discoveries.
+
+<hr/>
+
+### Code
+
+All materials are organized by week. Inside each `WeekX-Studies` folder you’ll find:
+
+- **Week-1**: Introduction to Scikit-Learn, basic classifier models, datasets, and exercises.
+- **Week-2**: Deeper dive into ensemble learning.
+
+<hr/>
 
 ### Week 1
 
@@ -29,4 +50,24 @@ Learnt concepts and experiences written into words and code from SKKU Internship
 
 **07/31/2025**
 
-- [Practiced Sklearn concepts, especially Random Forest & XGBoost, with Titanic data in Kaggle](https://www.kaggle.com/c/titanic/overview)
+- Practiced Sklearn concepts, especially Random Forest & XGBoost, with [Titanic data in Kaggle](https://www.kaggle.com/c/titanic/overview)
+- [Code in GitHub](https://github.com/ycko725/SKKU-Internship-Yuchan-Ko/blob/main/Week1-Studies/SKKU_week1.ipynb)
+
+**08/01/2025**
+
+- Created the GitHub page.
+- Reviewed the content I've studied for the past four days.
+
+<hr/>
+
+### Week 2
+
+**08/04/2025**
+
+**08/05/2025**
+
+**08/06/2025**
+
+**08/07/2025**
+
+**08/08/2025**
