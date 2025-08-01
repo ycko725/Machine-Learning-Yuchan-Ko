@@ -5,13 +5,11 @@ Learnt concepts and experiences written into words and code from SKKU Internship
 
 07/28/2025
 
-https://youtu.be/0B5eIE_1vpU?si=oPDTxJgRbFVUdW5Z
-Watched Scikit-learn Crash Course - Machine Learning Library for Python
+Watched Scikit-learn Crash Course - Machine Learning Library for Python (https://youtu.be/0B5eIE_1vpU?si=oPDTxJgRbFVUdW5Z)
 
 07/29/2025
 
-https://www.kaggle.com/learn/intro-to-machine-learning
-Kaggle - Intro to Machine Learning
+Kaggle - Intro to Machine Learning (https://www.kaggle.com/learn/intro-to-machine-learning)
 - Data Exploration
 - First Model
 - Model Validation
@@ -20,8 +18,7 @@ Kaggle - Intro to Machine Learning
 
 07/30/2025
 
-https://www.kaggle.com/learn/intermediate-machine-learning
-- Kaggle - Intermediate Machine Learning
+Kaggle - Intermediate Machine Learning (https://www.kaggle.com/learn/intermediate-machine-learning)
 - Missing Value
 - Categorical Variable
 - Pipelines
@@ -31,6 +28,5 @@ https://www.kaggle.com/learn/intermediate-machine-learning
 
 07/31/2025
 
-https://www.kaggle.com/c/titanic/overview
-Practiced Sklearn concepts with titanic data in Kaggle (Random Forest & XGBoost)
+Practiced Sklearn concepts, especially Random Forest & XGBoost, with titanic data in Kaggle (https://www.kaggle.com/c/titanic/overview)
 
