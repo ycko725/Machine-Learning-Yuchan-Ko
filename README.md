@@ -64,10 +64,24 @@ All materials are organized by week. Inside each `WeekX-Studies` folder you’ll
 
 **08/04/2025**
 
+- Review [last week content](https://www.kaggle.com/code/startupsci/titanic-data-science-solutions/notebook)
+- Naive Bayes
+- Support Vector Machine (SVM)
+- Linear Discriminant Analysis (LDA)
+
 **08/05/2025**
+
+- [Bagging](https://www.kaggle.com/code/prashant111/bagging-vs-boosting)
+- [Boosting](https://www.kaggle.com/code/prashant111/bagging-vs-boosting)
 
 **08/06/2025**
 
+- [Stacking](https://www.kaggle.com/code/arthurtok/introduction-to-ensembling-stacking-in-python)
+- Voting Classifier
+
 **08/07/2025**
+
+- Read what Dynamic Ensemble Classifiers
+- Started Reading: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 **08/08/2025**
