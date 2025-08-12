@@ -1,11 +1,11 @@
-# 🤖 SKKU Internship Program - Machine Learning Studies
+# 🤖 Machine Learning Studies
 
 <hr/>
 
 ### Purpose
 
-This repository captures my two-week dive into scikit-learn’s classification tools,  as part of my internship at Sungkyunkwan University (SKKU).  
-Under Professor Tamer Abumed’s guidance, my goals are to:
+This repository captures my four-week dive into scikit-learn’s classification tools.
+My goals are to:
 
 - Get comfortable with the basics of classic machine-learning tools like logistic regression, decision trees, random forests, and SVMs.
 - Master the essentials of preparing data, choosing the right model, measuring performance, and fine-tuning settings to get the best results.
